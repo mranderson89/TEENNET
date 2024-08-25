@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:11, ESPN
+http://181.189.243.251:8000/play/a0se/index.m3u8
+#EXTINF:11, ESPN  4 HD
+http://181.189.243.251:8000/play/a0vd/index.m3u8
+#EXTINF:0, ESPN 2
+http://181.189.243.251:8000/play/a0sf/index.m3u8
+#EXTINF:0, ESPN 2 HD
+http://181.189.243.251:8000/play/a0va/index.m3u8
+#EXTINF:0, ESPN 3
+http://181.189.243.251:8000/play/a0rb/index.m3u8
+#EXTINF:0, ESPN 3 HD
+http://181.189.243.251:8000/play/a0vb/index.m3u8
+#EXTINF:0, ESPN 6 HD
+http://181.189.243.251:8000/play/a0vc/index.m3u8
+#EXTINF:11, ESPN HD
+http://181.189.243.251:8000/play/a0un/index.m3u8
+#EXTINF:0, ESPN HD
+http://181.189.243.251:8000/play/a0vk/index.m3u8
+#EXTINF:11, Golden Premiere 2 HD
+http://181.189.243.251:8000/play/a0od/index.m3u8
+#EXTINF:11, Golden Premiere HD
+http://181.189.243.251:8000/play/a0oc/index.m3u8
+#EXTINF:11, HBO Family HD
+http://181.189.243.251:8000/play/a0ou/index.m3u8
+#EXTINF:11, HBO HD
+http://181.189.243.251:8000/play/a0vl/index.m3u8
+#EXTINF:11, HBO Plus HD
+http://181.189.243.251:8000/play/a0ot/index.m3u8
+#EXTINF:11, HBO XTREME
+http://181.189.243.251:8000/play/a0vi/index.m3u8
+#EXTINF:11, HBO2 HD
+http://181.189.243.251:8000/play/a0os/index.m3u8
+#EXTINF:11, MTV 80s
+http://181.189.243.251:8000/play/a0po/index.m3u8
+#EXTINF:11, MTV HD
+http://181.189.243.251:8000/play/a0pz/index.m3u8
+#EXTINF:11, MTV Hits
+http://181.189.243.251:8000/play/a0pn/index.m3u8
+#EXTINF:11, Paramount
+http://181.189.243.251:8000/play/a0ol/index.m3u8
+#EXTINF:11, Paramount HD
+http://181.189.243.251:8000/play/a0t9/index.m3u8
+#EXTINF:11, TNT Novelas
+http://181.189.243.251:8000/play/a0uf/index.m3u8
+#EXTINF:11, UNIVERSAL COMEDY HD
+http://181.189.243.251:8000/play/a0t1/index.m3u8
+#EXTINF:11, UNIVERSAL CRIME HD
+http://181.189.243.251:8000/play/a0t0/index.m3u8
+#EXTINF:11, UNIVERSAL REALITY HD
+http://181.189.243.251:8000/play/a0sz/index.m3u8
+#EXTINF:31,13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:11,A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:62,A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+#EXTINF:80,America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:80,America TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:11,Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:36,Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:11,AXN HD
+http://190.0.241.181:8000/play/a04m/index.m3u8
+#EXTINF:11,cartoonito
+http://181.78.71.5:4890/play/a04t/index.m3u8
+#EXTINF:11,CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:11,CINEFAMILIAR
+http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
+#EXTINF:11,CINEHISPANO
+http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
+#EXTINF:11,Cinemax HD
+http://190.0.241.181:8000/play/a04p/index.m3u8
+#EXTINF:11,CINEPREMIUM
+http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
+#EXTINF:11,CNN Espanol
+http://190.0.241.181:8000/play/a06n/index.m3u8
+#EXTINF:11,Comedy Central HD
+http://190.0.241.181:8000/play/a04q/index.m3u8
+#EXTINF:58,Cronica HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:11,Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:11,Discovery H&H HD
+http://190.0.241.181:8000/play/a039/index.m3u8
+#EXTINF:11,Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:11,Discovery Theater HD
+http://190.0.241.181:8000/play/a02i/index.m3u8
+#EXTINF:11,Discovery Turbo SD
+http://190.0.241.181:8000/play/a051/index.m3u8
+#EXTINF:11,DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:1800,DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:11,E! HD
+http://190.0.241.181:8000/play/a03f/index.m3u8
+#EXTINF:11,El Gourmet HD
+http://190.0.241.181:8000/play/a038/index.m3u8
+#EXTINF:24,El Trece
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:11,ESPN 2 HD
+http://190.0.241.181:8000/play/a06z/index.m3u8
+#EXTINF:11,ESPN 2 Latin
+http://181.78.71.5:4890/play/a03k/index.m3u8
+#EXTINF:11,ESPN 3 HD
+http://190.0.241.181:8000/play/a02e/index.m3u8
+#EXTINF:11,ESPN 5HD
+http://190.0.241.181:8000/play/a033/index.m3u8
+#EXTINF:11,ESPN 6HD
+http://190.0.241.181:8000/play/a02f/index.m3u8
+#EXTINF:11,ESPN 7HD
+http://190.0.241.181:8000/play/a02j/index.m3u8
+#EXTINF:11,Food Network HD
+http://190.0.241.181:8000/play/a04v/index.m3u8
+#EXTINF:11,FX HD
+http://190.0.241.181:8000/play/a02k/index.m3u8
+#EXTINF:11,Golden HD
+http://190.0.241.181:8000/play/a04u/index.m3u8
+#EXTINF:11,HBO
+http://181.78.71.5:4890/play/a05t/index.m3u8
+#EXTINF:11,History Channel HD
+http://190.0.241.181:8000/play/a04k/index.m3u8
+#EXTINF:11,ID HD
+http://190.0.241.181:8000/play/a02g/index.m3u8
+#EXTINF:11,Lifetime
+http://190.0.241.181:8000/play/a054/index.m3u8
+#EXTINF:125,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:11,MTV 00s HD
+http://181.189.243.251:8000/play/a0sw/index.m3u8
+#EXTINF:11,MTV LIVE HD
+http://190.0.241.181:8000/play/a04s/index.m3u8
+#EXTINF:30,MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
+#EXTINF:11,NAT GEO
+http://181.78.71.5:4890/play/a061/index.m3u8
+#EXTINF:11,Nick HD
+http://190.0.241.181:8000/play/a02a/index.m3u8
+#EXTINF:11,Nick Jr
+http://181.78.71.5:4890/play/a02z/index.m3u8
+#EXTINF:11,Pasiones HD
+http://190.0.241.181:8000/play/a02d/index.m3u8
+#EXTINF:31,Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:11,Playboy
+http://181.189.243.251:8000/play/a0ow/index.m3u8
+#EXTINF:11,Space HD
+http://190.0.241.181:8000/play/a04n/index.m3u8
+#EXTINF:11,Star Channel HD
+http://190.0.241.181:8000/play/a03e/index.m3u8
+#EXTINF:30,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
+#EXTINF:11,TELEMUNDO
+http://190.0.241.181:8000/play/TELEMUNDO/index.m3u8
+#EXTINF:11,Telenovelas
+http://190.0.241.181:8000/play/a05m/index.m3u8
+#EXTINF:30,Tierramia TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
+#EXTINF:11,TNT HD
+http://190.0.241.181:8000/play/a037/index.m3u8
+#EXTINF:11,TNT Series HD
+http://190.0.241.181:8000/play/a04t/index.m3u8
+#EXTINF:11,Tooncast SD
+http://190.0.241.181:8000/play/a04z/index.m3u8
+#EXTINF:11,TruTV HD
+http://190.0.241.181:8000/play/a02h/index.m3u8
+#EXTINF:30,TV Pública 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:11,TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:11,Universal Channel HD
+http://190.0.241.181:8000/play/a04r/index.m3u8
+#EXTINF:11,USA SD
+http://181.78.71.5:4890/play/a04f/index.m3u8
+#EXTINF:59,Vorterix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+#EXTINF:11,Warner Channel HD
+http://190.0.241.181:8000/play/a03d/index.m3u8
+#EXTINF:28,13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:24,El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
